@@ -1,0 +1,14 @@
+# editor
+.idea/
+
+# os
+.DS_Store
+
+# npm
+node_modules
+npm-debug.log
+
+# deployment
+*.pem
+
+build/

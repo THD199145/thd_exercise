@@ -1,0 +1,23 @@
+{
+  "name": "exer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Full_Permutation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "local": "nodemon -- -r babel-register ./FrontEnd/reactDemo\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^1.4.0",
+    "react": "^15.6.1",
+    "react-vis": "^1.7.7"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
