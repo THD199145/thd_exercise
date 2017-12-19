@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/LeetCode/24_SwapNodesinPairs.js"
+            "program": "${workspaceFolder}/LeetCode/23_MergekSortedLists.js"
         }
     ]
 }
