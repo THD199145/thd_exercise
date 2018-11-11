@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "countries-cities": "0.0.11",
+    "country-codes": "0.0.3",
     "create-react-app": "^1.4.0",
     "react": "^15.6.1",
     "react-vis": "^1.7.7"
